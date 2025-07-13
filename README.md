@@ -79,7 +79,7 @@ The results presented in this benchmark are **deterministic and reproducible** t
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/text-classification-benchmark.git
+git clone https://github.com/SuhaanCoding/text-classification-benchmark.git
 cd text-classification-benchmark
 
 # Set up environment (choose one)
