@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub](https://img.shields.io/badge/github-text--classification--benchmark-lightgrey.svg)](https://github.com/your-username/text-classification-benchmark)
+[![GitHub](https://img.shields.io/badge/github-text--classification--benchmark-lightgrey.svg)](https://github.com/SuhaanCoding/text-classification-benchmark)
 
 ## Project Goal
 
@@ -131,11 +131,16 @@ If you use this benchmark in your research, please cite:
 ```bibtex
 @misc{text-classification-benchmark,
   title={Text Classification Benchmark: Comparing Traditional ML, Neural Networks, and LLMs},
-  author={Your Name},
+  author={Suhaan Khurana},
   year={2025},
-  url={https://github.com/your-username/text-classification-benchmark}
+  url={https://github.com/SuhaanCoding/text-classification-benchmark}
 }
 ```
+
+## Author
+
+**Suhaan Khurana**  
+GitHub: [@SuhaanCoding](https://github.com/SuhaanCoding)
 
 ## License
 
