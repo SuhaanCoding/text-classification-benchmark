@@ -105,8 +105,6 @@ jupyter lab notebooks/text-classification-benchmark.ipynb
 text-classification-benchmark/
 ├── notebooks/           # Original Jupyter notebook (output-stripped)
 │   └── text-classification-benchmark.ipynb
-├── reports/            # Auto-generated documentation
-│   └── text-classification-benchmark.md     # Notebook converted to markdown
 ├── src/                # Future helper modules
 │   └── __init__.py
 ├── data/               # Dataset placeholder
@@ -120,7 +118,7 @@ text-classification-benchmark/
 
 ## Detailed Report
 
-For complete technical details, model architectures, and result tables, see the [comprehensive notebook report](reports/text-classification-benchmark.md).
+For complete technical details, model architectures, and result tables, see the [notebook](notebooks/text-classification-benchmark.ipynb).
 
 ## Contributing
 
